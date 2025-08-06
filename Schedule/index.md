@@ -4,7 +4,7 @@
 <style>
     .header-row {
         background-color: #0d3350;
-        color: #ffffff;https://github.com/icsob2024/icsob2024.github.io/edit/main/Schedule/index.md
+        color: #ffffff;
         font-weight: bold;
         text-align: center;
     }
