@@ -4,7 +4,7 @@
 <style>
     .header-row {
         background-color: #0d3350;
-        color: #ffffff;https://github.com/icsob2024/icsob2024.github.io/edit/main/Schedule/index.md
+        color: #ffffff;https://github.com/icsob2025/icsob2025.github.io/edit/main/Schedule/index.md
         font-weight: bold;
         text-align: center;
     }
@@ -41,7 +41,7 @@
 
 <div class="col-lg8 mx-auto">
     <h1 class="display-4" style="text-align: left;"> 
-    ICSOB 2024 Program
+    ICSOB 2025 Program
     </h1>
 
 <p>
@@ -51,7 +51,7 @@
     <thead>
      <tr>
             <th colspan="4" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
-                Day 1 November 18, 2024 <br>
+                Day 1 November 18, 2025 <br>
             </th>
      </tr>
 
@@ -220,7 +220,7 @@
     <thead>
 
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
-                Day 2 November 19, 2024 <br>
+                Day 2 November 19, 2025 <br>
             </th>
         
         </thead>
@@ -329,9 +329,9 @@
             <td style="width: 12%; font-weight: bold; color: gray;"> 14:45-15:30<br> <span style="font-weight: normal; font-size: 0.9em;">45m</span> </td>
             <td colspan="2">
             
-            <b><a href="/Posters/ICSOB2024_paper_97.pdf" style="color: black; text-decoration: none;">Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</a></b><br>
+            <b><a href="/Posters/ICSOB2025_paper_97.pdf" style="color: black; text-decoration: none;">Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</a></b><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
-            <b><a href="/Posters/ICSOB2024_paper_83.pdf" style="color: black; text-decoration: none;">Paper #83: "Towards an Architectural Perspective for Sustainability"</a></b><br>
+            <b><a href="/Posters/ICSOB2025_paper_83.pdf" style="color: black; text-decoration: none;">Paper #83: "Towards an Architectural Perspective for Sustainability"</a></b><br>
             Markus Funke, and Patricia Lago<br> 
             </td>
             
@@ -393,7 +393,7 @@
 
         <tr>
             <th colspan="3" style="background-color: #00203FFF; color: white; font-weight: bold; font-size: 1.2em;">
-                Day 3 November 20, 2024 <br>
+                Day 3 November 20, 2025 <br>
             </th>
         </tr>
         </thead>
@@ -423,9 +423,9 @@
         <tr style="background-color: #f1e3f3;">
             <td style="width: 12%; font-weight: bold; color: gray;"> 10:00-10:30<br> <span style="font-weight: normal; font-size: 0.9em;">30m</span> </td>
             <td colspan="2">
-            <a href="/Posters/ICSOB2024_paper_97.pdf" style="color: black; text-decoration: none;">Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</a><br>
+            <a href="/Posters/ICSOB2025_paper_97.pdf" style="color: black; text-decoration: none;">Paper #97: "Grounded Ethical AI: A Demonstrative Approach with RAG-Enhanced Agents"</a><br>
             José Antonio Siqueira de Cerqueira, Ayman Asad Khan, Rebekah Rousi, Nannan Xi,Juho Hamari, Kai-Kristian Kemell, and Pekka Abrahamsson<br>
-            <b><a href="/Posters/ICSOB2024_paper_83.pdf" style="color: black; text-decoration: none;">Paper #83: "Towards an Architectural Perspective for Sustainability"</a></b><br>
+            <b><a href="/Posters/ICSOB2025_paper_83.pdf" style="color: black; text-decoration: none;">Paper #83: "Towards an Architectural Perspective for Sustainability"</a></b><br>
             Markus Funke, and Patricia Lago<br> 
 
             </td>
